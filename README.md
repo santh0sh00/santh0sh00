@@ -1,5 +1,5 @@
-# Hi 
-👋 I'm Santhosh Kumar 🚀
+# Hi 👋
+I'm Santhosh Kumar 🚀
 
 🎓 Computer Science Student | 📊 Data Analytics & Science   
 💻 Machine Learning | Python | SQL | Power BI | MS Excel
