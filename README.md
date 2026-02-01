@@ -1,7 +1,8 @@
-# Hi 👋 I'm Santhosh Kumar 🚀
+# Hi 
+👋 I'm Santhosh Kumar 🚀
 
-🎓 Computer Science Student | 📊 Data Analytics Learner  
-💻 Java | Python | SQL | Web Development  
+🎓 Computer Science Student | 📊 Data Analytics & Science   
+💻 Machine Learning | Python | SQL | Power BI | MS Excel
 🔥 Building real-world projects & improving daily
 
 ---
@@ -32,11 +33,6 @@
 📊 Customer Segmentation (ML)  
 🍔 Food Ordering Web App  
 📂 DBMS Mini Project  
-
----
-
-## 📈 GitHub Stats
-![Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)
 
 ---
 
