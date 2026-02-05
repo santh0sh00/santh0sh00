@@ -29,9 +29,8 @@ I'm Santhosh Kumar 🚀
 ---
 
 ## 📌 Featured Projects
-🚀 Student Management System  
-📊 Customer Segmentation (ML)  
-🍔 Food Ordering Web App  
+🚀 Hospital Management System  
+📊 Slot machine game   
 📂 DBMS Mini Project  
 
 ---
